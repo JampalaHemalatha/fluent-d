@@ -163,7 +163,7 @@ end
 #filecheck
 control 'fluentd-06'do
 impact 1.0
-title 'checking if all the files are exixting'
+title 'checking if all the files are existing'
 desc 'checing if required files are available '
 
 #configuration file for configuring
